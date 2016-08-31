@@ -1,0 +1,5 @@
+{admin},
+Le produit {productname} dispose d'un stock de : {stock}.
+
+Cet e-mail a été envoyé automatiquement par le module Admin product stock,
+merci de ne pas répondre.
